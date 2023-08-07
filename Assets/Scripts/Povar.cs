@@ -5,7 +5,7 @@ using UnityEngine;
 public class Povar : MonoBehaviour
 {
     [SerializeField] private GameObject[] picturePovar;
-    private int numberPovar = 0;
+    public static int numberPovar = 0;
     
     private void OnEnable()
     {
