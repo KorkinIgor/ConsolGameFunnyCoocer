@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e1ffa2a-0e2f-4f23-8a77-7047a3f26445" name="Default Changelist" comment="" />
+    <list default="true" id="1e1ffa2a-0e2f-4f23-8a77-7047a3f26445" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.funny coocer/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.funny coocer/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.funny coocer/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.funny coocer/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.funny coocer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.funny coocer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/image/веселы повар 3(перед последним).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/image/веселы повар 3(перед последним).png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/image/веселы повар4(последний).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/image/веселы повар4(последний).png.meta" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RedButton.cs" root0="FORCE_HIGHLIGHTING" />
@@ -16,10 +29,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Eventer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RedButton.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Povar.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="2TZMFom23RMvT79W5liiwPxEbl8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,6 +76,7 @@
       <updated>1691246052119</updated>
       <workItem from="1691246054848" duration="514000" />
       <workItem from="1691246683169" duration="186000" />
+      <workItem from="1691327731544" duration="2331000" />
     </task>
     <servers />
   </component>
@@ -69,6 +85,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

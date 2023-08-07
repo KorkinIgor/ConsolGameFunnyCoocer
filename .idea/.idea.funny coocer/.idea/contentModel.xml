@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="Eventer.cs" t="Include" />
+          <e p="Povar.cs" t="Include" />
           <e p="RedButton.cs" t="Include" />
           <e p="test.cs" t="Include" />
         </e>
